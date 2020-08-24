@@ -181,7 +181,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/A37/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/oppo/A37/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/oppo/A37/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
-    vendor/oppo/f1f/proprietary/vendor/lib/libmmcamera_gt24c64a_eeprom.so:system/vendor/lib/libmmcamera_gt24c64a_eeprom.so \
+    vendor/oppo/A37/proprietary/vendor/lib/libmmcamera_gt24c64a_eeprom.so:system/vendor/lib/libmmcamera_gt24c64a_eeprom.so \
     vendor/oppo/A37/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
     vendor/oppo/A37/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
     vendor/oppo/A37/proprietary/vendor/lib/libmmcamera_tuning.so:system/vendor/lib/libmmcamera_tuning.so \
