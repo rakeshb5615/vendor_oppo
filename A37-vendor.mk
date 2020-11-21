@@ -31,25 +31,13 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/A37/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
     vendor/oppo/A37/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/oppo/A37/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37a40/venus.b01:system/etc/firmware/variant/A37a40/venus.b01 \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37a40/venus.mbn:system/etc/firmware/variant/A37a40/venus.mbn \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37a40/venus.mdt:system/etc/firmware/variant/A37a40/venus.mdt \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37a41/venus.b01:system/etc/firmware/variant/A37a41/venus.b01 \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37a41/venus.mbn:system/etc/firmware/variant/A37a41/venus.mbn \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37a41/venus.mdt:system/etc/firmware/variant/A37a41/venus.mdt \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37a46/venus.b01:system/etc/firmware/variant/A37a46/venus.b01 \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37a46/venus.mbn:system/etc/firmware/variant/A37a46/venus.mbn \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37a46/venus.mdt:system/etc/firmware/variant/A37a46/venus.mdt \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37l36/venus.b01:system/etc/firmware/variant/A37l36/venus.b01 \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37l36/venus.mbn:system/etc/firmware/variant/A37l36/venus.mbn \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37l36/venus.mdt:system/etc/firmware/variant/A37l36/venus.mdt \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37l37/venus.b01:system/etc/firmware/variant/A37l37/venus.b01 \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37l37/venus.mbn:system/etc/firmware/variant/A37l37/venus.mbn \
-    vendor/oppo/A37/proprietary/etc/firmware/variant/A37l37/venus.mdt:system/etc/firmware/variant/A37l37/venus.mdt \
     vendor/oppo/A37/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
+    vendor/oppo/A37/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
     vendor/oppo/A37/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
     vendor/oppo/A37/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
     vendor/oppo/A37/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
+    vendor/oppo/A37/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
+    vendor/oppo/A37/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/oppo/A37/proprietary/etc/firmware/widevine.b00:system/etc/firmware/widevine.b00 \
     vendor/oppo/A37/proprietary/etc/firmware/widevine.b01:system/etc/firmware/widevine.b01 \
     vendor/oppo/A37/proprietary/etc/firmware/widevine.b02:system/etc/firmware/widevine.b02 \
