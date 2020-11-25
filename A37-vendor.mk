@@ -447,7 +447,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/A37/proprietary/vendor/lib64/libchromatix_imx179_15399_preview.so:system/vendor/lib64/libchromatix_imx179_15399_preview.so \
     vendor/oppo/A37/proprietary/vendor/lib64/libchromatix_imx179_15399_preview_binning.so:system/vendor/lib64/libchromatix_imx179_15399_preview_binning.so \
     vendor/oppo/A37/proprietary/vendor/lib64/libchromatix_imx179_15399_preview_binning_new.so:system/vendor/lib64/libchromatix_imx179_15399_preview_binning_new.so \
-    vendor/oppo/A37/proprietary/vendor/lib64/libchromatix_imx179_15399_preview_new.399_so:system/vendor/lib64/libchromatix_imx179_15399_preview_new.so \
+    vendor/oppo/A37/proprietary/vendor/lib64/libchromatix_imx179_15399_preview_new.so:system/vendor/lib64/libchromatix_imx179_15399_preview_new.so \
     vendor/oppo/A37/proprietary/vendor/lib64/libchromatix_imx179_15399_preview_sunny.so:system/vendor/lib64/libchromatix_imx179_15399_preview_sunny.so \
     vendor/oppo/A37/proprietary/vendor/lib64/libchromatix_imx179_15399_preview_sunny_new.so:system/vendor/lib64/libchromatix_imx179_15399_preview_sunny_new.so \
     vendor/oppo/A37/proprietary/vendor/lib64/libchromatix_imx179_15399_snapshot.so:system/vendor/lib64/libchromatix_imx179_15399_snapshot.so \
